@@ -1,6 +1,8 @@
 # Restaurant_Sales_Data_Analysis
 SQL / Tableau 
 
+Link to Dashboard: [https://public.tableau.com/app/profile/thomas.mccarthy8203/vizzes](https://public.tableau.com/app/profile/thomas.mccarthy8203/viz/RestaurantSalesDashboard_17406995121260/PortfolioProject)
+
 Restaurant Sales Data Analysis
 This project involves analyzing restaurant sales data from the fast_food_sales table. The SQL queries used in this project cover a range of operations that help clean the data, perform aggregations, and generate business insights.
 
