@@ -1,7 +1,7 @@
 # Restaurant_Sales_Data_Analysis
 SQL / Tableau 
 
-Link to Dashboard: [https://public.tableau.com/app/profile/thomas.mccarthy8203/vizzes](https://public.tableau.com/app/profile/thomas.mccarthy8203/viz/RestaurantSalesDashboard_17406995121260/PortfolioProject)
+Link to Dashboard: https://public.tableau.com/app/profile/thomas.mccarthy8203/viz/RestaurantSalesDashboard_17407080936860/PortfolioProject?publish=yes
 
 Restaurant Sales Data Analysis:
 
